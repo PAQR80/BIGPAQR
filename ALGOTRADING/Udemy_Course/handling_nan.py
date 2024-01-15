@@ -2,7 +2,6 @@
 """
 handling NaN values
 
-
 """
 
 import datetime as dt
