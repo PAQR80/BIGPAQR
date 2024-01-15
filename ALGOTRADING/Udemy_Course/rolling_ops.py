@@ -1,9 +1,6 @@
 # =============================================================================
 # Import OHLCV data and perform rolling operations
-# Author : Mayank Rasu (http://rasuquant.com/wp/)
 
-# Please report bug/issues in the Q&A section
-# =============================================================================
 
 import datetime as dt
 import yfinance as yf

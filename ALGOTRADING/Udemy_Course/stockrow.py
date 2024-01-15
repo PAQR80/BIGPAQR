@@ -1,9 +1,6 @@
 # =============================================================================
 # Data extraction from stockrow.com
-# Author : Reza Sadegehi (Reviewed and updated by Mayank Rasu)
 
-# Please report bug/issues in the Q&A section
-# =============================================================================
 import pandas as pd 
 
 from enum import Enum

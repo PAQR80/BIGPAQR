@@ -1,9 +1,6 @@
 # ============================================================================
 # Getting key statistics data from yahoo finance using webscraping
-# Author - Mayank Rasu
 
-# Please report bugs/issues in the Q&A section
-# =============================================================================
 
 import requests
 from bs4 import BeautifulSoup

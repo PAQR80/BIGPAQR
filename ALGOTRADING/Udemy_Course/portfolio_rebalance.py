@@ -1,9 +1,6 @@
 # =============================================================================
 # Backtesting strategy - I : Monthly portfolio rebalancing
-# Author : Mayank Rasu (http://rasuquant.com/wp/)
 
-# Please report bug/issues in the Q&A section
-# =============================================================================
 
 import numpy as np
 import pandas as pd
